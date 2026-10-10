@@ -4,4 +4,4 @@
 window.ROBLAST_CONFIG = {
   SUPABASE_URL: "https://YOUR_PROJECT.supabase.co",
   SUPABASE_KEY: "sb_publishable_YOUR_KEY"
-};
+}; 
